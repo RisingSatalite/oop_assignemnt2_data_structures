@@ -5,3 +5,6 @@ This assignemnt includes 4 data structure that were to be added for the assignem
 Some method for the stack are not impletment as the stackADT from changed from what it was based on.
 
 ArrayList and Queue impletment all the methods of listADT and queueADT. DLL does not have an adt so it has mostly methods that would be important for a DLL. 
+
+
+Most of the test are successes, but some fail
